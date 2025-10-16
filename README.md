@@ -1,6 +1,6 @@
 # Thuc_hanh_03_nhom_2
 
-**Buổi thực hành 2: Microsoft Excel và Google Sheets**
+**Buổi thực hành 3: Microsoft Excel và Google Sheets**
 
 Trong chương này, chúng tôi hướng dẫn sử dụng phần mềm bảng tính Microsoft Excel
 2013. Nội dung bao gồm các thao tác cơ bản và sử dụng các hàm trong Excel để thực
